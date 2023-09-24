@@ -12,6 +12,14 @@ body {
   line-height: 1.5;
 }
 
+.form {
+  margin: 16px;
+  text-align: center;
+}
+.switcher-btn {
+  text-align: center;
+}
+
 img {
   display: block;
   max-width: 100%;
